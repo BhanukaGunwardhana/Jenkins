@@ -73,10 +73,11 @@
 					</excludes>
 				</configuration>
 			</plugin>
-			<build>
-    			<finalName>docker-jenkins-dev</finalName>
-			</build>
+			
 		</plugins>
+		
+    	<finalName>docker-jenkins-dev</finalName>
+
 		
 	</build>
 
